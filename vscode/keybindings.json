@@ -1,0 +1,16 @@
+// Place your key bindings in this file to override the defaults
+[
+	{
+		"key": "ctrl+alt+,",
+		"command": "workbench.action.openSettings2"
+	},
+	{
+		"key": "ctrl+alt+b",
+		"command": "workbench.action.toggleActivityBarVisibility"
+	},
+	{
+		"key": "ctrl+alt+d",
+		"command": "editor.action.selectHighlights",
+		"when": "editorFocus"
+	}
+]
